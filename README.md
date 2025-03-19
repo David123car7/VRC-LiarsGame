@@ -2,8 +2,6 @@
 
 Liars Game is a minigame developed in Unity using c# and UdonSharp to be played inside VrChat.
 
-![screenshot](liarsGameImg4.PNG)
-![screenshot](liarsGameImg3.png)
 
 The world to check the minigame can be found [here](https://vrchat.com/home/world/wrld_71147554-d41a-4738-8c28-3e76715fce84)
 
@@ -27,3 +25,6 @@ The game ends when a player successfully plays all their cards or is the last on
 - You CAN use this minigame in any of your worlds.
 - You CAN'T send or sell this asset to others.
 - You only CAN use this asset in a world sold as a package if you purchase the distributable version instead of the other versions.
+
+![screenshot](liarsGameImg4.PNG)
+![screenshot](liarsGameImg3.png)
