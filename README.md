@@ -2,7 +2,7 @@
 
 Liars Game is a minigame developed in Unity using c# and UdonSharp to be played inside VrChat.
 
-![screenshot](liarsGameImg4.png)
+![screenshot](liarsGameImg4.PNG)
 ![screenshot](liarsGameImg3.png)
 
 The world to check the minigame can be found [here](https://vrchat.com/home/world/wrld_71147554-d41a-4738-8c28-3e76715fce84)
